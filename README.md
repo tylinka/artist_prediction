@@ -19,4 +19,10 @@ In current application the simpliest model with linear the last layer is used.
 ## How to work with app
 Select one painting from test folder and upload it. Then press button "identify". On the next page the name of artist will appear. Also you can find any picture in web. Pictures from test folder weren't involve in model training.
 
+<table>
+<tr>
+  <td><img width="400" alt="Main page" src="screenshots/1.png"></td>
+  <td><img width="400" alt="Main page" src="screenshots/2.png"></td>
+</tr>
+</table>
 **Attention:** on Mac with M1 this application can work unstable (*[W NNPACK.cpp:79] Could not initialize NNPACK! Reason: Unsupported hardware.*)
