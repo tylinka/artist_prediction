@@ -25,4 +25,5 @@ Select one painting from test folder and upload it. Then press button "identify"
   <td><img width="400" alt="Main page" src="screenshots/2.png"></td>
 </tr>
 </table>
+
 **Attention:** on Mac with M1 this application can work unstable (*[W NNPACK.cpp:79] Could not initialize NNPACK! Reason: Unsupported hardware.*)
